@@ -56,7 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # React dev server
-    "https://simplifi-lsplitter-frontend.vercel.app/"
+    "https://simplifi-lsplitter-frontend.vercel.app"
 ]
 
 ROOT_URLCONF = 'sku_splitter.urls'
